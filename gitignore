@@ -1,0 +1,14 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
